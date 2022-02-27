@@ -1,0 +1,95 @@
+.capitanAmerica{
+    position: relative;
+    width: 240px;
+    height: 127px;
+    background: linear-gradient(#6f7cf5, #a87bfa);
+    color: white;
+    font-size: 12px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.capText{
+    width: 85px;
+    height: 0px;
+    margin-left: 150px;
+}
+.capimg{
+    margin-top: -24px;
+    margin-left: 25px
+}
+
+.ironMan{
+    position: relative;
+    width: 240px;
+    height: 127px;
+    background: linear-gradient(#f12727, #b10000);
+    color: white;
+    font-size: 12px;
+    margin-top: -139px;
+    margin-left: 315px;
+}
+.irontext{
+    width: 55px;
+    height: 0px;
+    margin-left: 175px;
+}
+.ironimg{
+    margin-top: -37px;
+    margin-left: 25px;
+}
+
+.blackWidow{
+    position: relative;
+    width: 240px;
+    height: 127px;
+    background: linear-gradient(90deg, #240046, #7200a7);
+    color: white;
+    font-size: 12px;
+    margin-top: -139px;
+    margin-left: 615px;
+}
+.widowtext{
+    width: 95px;
+    height: 0px;
+    margin-left: 140px;
+}
+.widowimg{
+    margin-top: -31px;
+    margin-left: 27px;
+}
+
+.spider-man{
+    position: relative;
+    width: 240px;
+    height: 127px;
+    background: linear-gradient(#e40000, #000000);
+    color: white;
+    font-size: 12px;
+    margin-top: -139px;
+    margin-left: 915px;
+}
+.spidertext{
+    width: 63px;
+    height: 0px;
+    margin-left: 170px;
+}
+.spiderimg{
+    margin-top: -28px;
+    margin-left: 25px;
+}
+#capitanAmerica{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+#ironMan{
+    margin-top: -139px;
+    margin-left: 315px;
+}
+#blackWidow{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+#spider-man{
+    margin-top: -139px;
+    margin-left: 315px;
+}
